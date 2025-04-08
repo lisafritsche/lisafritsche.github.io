@@ -8,8 +8,9 @@ This semester, I’m diving into:
 
 - Software Engineering
 - Cryptography
+- International Trade 
 
-I love working on problems that involve **logic** and **mathematics**, which is why I chose these subjects — they challenge me in the best ways.
+I love working on problems that involve **logic** and **mathematics**, which is why I chose these subjects — they challenge me in the best ways. I am also interested in gaining knowledge in the economic field.
 
 ## 💻 My Tools of Choice
 
@@ -19,8 +20,6 @@ Here’s a quick overview of my preferences as a programmer:
 - 🐍 **Language:** Python  
 - 🌱 **Attitude:** Always curious, always learning  
 
-> "Code is like humor. When you have to explain it, it’s bad."  
-> — *Cory House*
 
 ## 🔒 Fun Fact
 
@@ -32,8 +31,8 @@ Here’s a quick overview of my preferences as a programmer:
 - [UCSD Official Website](https://ucsd.edu)
 - [My Favorite Header](#Hi-im-lisa)
 - [This README file](README.md)
-- [About me] (aboutme.md)
-- 
+- [About Me](aboutme.md)
+  
 
 ## 📝 Task List
 
@@ -48,20 +47,26 @@ Here’s a quick overview of my preferences as a programmer:
 
 ---
 
-## 📌 Summary of Markdown Constructs Used
+## 📌 Markdown Features Showcase
 
-1. **Headings:** (`#`, `##`)
-2. **Styling text:** bold `**bold**`, italic `*italic*`
-3. **Quotes:** `>` for text and code
-4. **Code block:** see this full block
-5. **External Link:** UCSD website
-6. **Section link:** `[My Favorite Header](#hi-im-lisa)`
-7. **Relative link:** to `README.md`
-8. **Ordered List**
-9. **Unordered List**
-10. **Task List**
-11. **Image**
+Here’s a quick rundown of the GitHub Flavored Markdown elements I’ve used on this page:
+
+1. **Headings** – with `#`, `##`, etc.
+2. **Styled text** – like `**bold**` and `*italic*`
+3. **Block quotes** – using `>` for quoting text and code
+4. **Code blocks** – demonstrated in this section
+5. **External links** – like [UCSD’s official website](https://ucsd.edu)
+6. **Section links** – such as [My Favorite Header](#hi-im-lisa)
+7. **Relative links** – to local files like [README.md](README.md) and [About Me](aboutme.md)
+8. **Ordered lists** – like this one ☝️
+9. **Unordered lists** – throughout the document
+10. **Task lists** – see the checklist above ✅
+11. **Images** – included via a linked page
 
 ---
 
-Thanks for stopping by!
+## 🙌 Thanks for Visiting!
+
+This GitHub Page is part of an assignment, but I hope it also gives you a little insight into who I am — both as a developer and as a person. 
+
+Feel free to check out my [About Me](aboutme.md) page for more!
